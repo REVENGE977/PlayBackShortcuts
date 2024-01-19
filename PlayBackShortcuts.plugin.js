@@ -1,6 +1,6 @@
 /**
  * @name PlayBackShortcuts
- * @description Adds hotkeys for changing playback speed.
+ * @description Adds hotkeys for changing playback speed. Shift+<(To decrease playback speed) and Shift+>(To increase playback speed).
  * @updateUrl https://raw.githubusercontent.com/REVENGE977/PlayBackShortcuts/main/PlayBackShortcuts.plugin.js
  * @version 1.0.0
  * @author REVENGE977
